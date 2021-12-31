@@ -9,6 +9,8 @@ An extreme encryption for everyone, encrypt your text before sending to anyone. 
 5. chmod +x *
 6. pip install -r requirements.txt
 7. python3 encrypto.py
+# Screenshot
+![Screenshot (167)](https://user-images.githubusercontent.com/93708296/147811094-4921336a-ab48-4d43-b5e5-54d762d33d01.png)
 
 # Help
 

@@ -17,4 +17,4 @@ An extreme encryption for everyone, encrypt your text before sending to anyone. 
 
 # Help
 
-For any question, iam mostly active on instagram @cyber_dioxide_
+For any question, iam mostly active on [Telegram](https://www.cyberdioxide.com/p/contact.html)
